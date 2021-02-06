@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-MyMotorway/Pods-MyMotorway-resources.sh
+${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle
+${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle
+${PODS_ROOT}/GooglePlacesSearchController/Pod/Assets/powered-by-google-on-white.png
+${PODS_ROOT}/GooglePlacesSearchController/Pod/Assets/powered-by-google-on-white@2x.png

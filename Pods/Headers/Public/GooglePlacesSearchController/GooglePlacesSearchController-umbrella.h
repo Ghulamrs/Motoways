@@ -1,0 +1,1 @@
+../../../Target Support Files/GooglePlacesSearchController/GooglePlacesSearchController-umbrella.h

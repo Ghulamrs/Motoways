@@ -1,0 +1,6 @@
+module Pods_MyMotorway {
+  umbrella header "Pods-MyMotorway-umbrella.h"
+
+  export *
+  module * { export * }
+}
